@@ -1,0 +1,94 @@
+{"date":"25-11-2021 18:50:45","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:45","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:50:47","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:47","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:50:48","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:48","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:50:49","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:49","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:50:49","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:49","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:50:50","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:50","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:50:50","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:50","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:50:50","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:50","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:50:51","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:51","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:50:51","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:50:51","type":"ServerError","message":"handle POST error","params":{"message":"argument is not defined","stackStart":["ReferenceError: argument is not defined","    at Function.findOne (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Template.js:99:27)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:30:32)"]}}
+{"date":"25-11-2021 18:51:48","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:51:48","type":"DBAction","message":"findCursor","params":{"0":{"query":{"$or":[{},{"emails":{"$elemMatch":{}}}]},"limit":1}}}
+{"date":"25-11-2021 18:51:48","type":"DBAction","message":"findOne","params":{"0":{"$or":[{},{"emails":{"$elemMatch":{}}}]}}}
+{"date":"25-11-2021 18:51:51","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:51:51","type":"DBAction","message":"findCursor","params":{"0":{"query":{"$or":[{},{"emails":{"$elemMatch":{}}}]},"limit":1}}}
+{"date":"25-11-2021 18:51:51","type":"DBAction","message":"findOne","params":{"0":{"$or":[{},{"emails":{"$elemMatch":{}}}]}}}
+{"date":"25-11-2021 18:51:54","type":"Action","message":"POST /login","params":{}}
+{"date":"25-11-2021 18:51:54","type":"DBAction","message":"findCursor","params":{"0":{"query":{"$or":[{},{"emails":{"$elemMatch":{}}}]},"limit":1}}}
+{"date":"25-11-2021 18:51:54","type":"DBAction","message":"findOne","params":{"0":{"$or":[{},{"emails":{"$elemMatch":{}}}]}}}
+{"date":"25-11-2021 19:09:15","type":"DBAction","message":"findCursor","params":{"0":{"query":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"limit":1}}}
+{"date":"25-11-2021 19:09:15","type":"DBAction","message":"findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:11:48","type":"DBAction","message":"findCursor","params":{"0":{"query":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"limit":1}}}
+{"date":"25-11-2021 19:11:48","type":"DBAction","message":"findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:12:51","type":"DBAction","message":"findCursor","params":{"0":{"query":{},"limit":1}}}
+{"date":"25-11-2021 19:12:51","type":"DBAction","message":"findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:14:34","type":"DBAction","message":"usersfindCursor","params":{"0":{"query":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"limit":1}}}
+{"date":"25-11-2021 19:14:34","type":"DBAction","message":"usersfindOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:15:38","type":"DBAction","message":"nullfindCursor","params":{"0":{"query":{}}}}
+{"date":"25-11-2021 19:15:38","type":"DBAction","message":"usersfind","params":{"0":{}}}
+{"date":"25-11-2021 19:15:53","type":"DBAction","message":"nullfindCursor","params":{"0":{"query":{},"sort":null,"skip":null,"limit":2}}}
+{"date":"25-11-2021 19:15:53","type":"DBAction","message":"usersfind","params":{"0":{},"1":null,"2":null,"3":2}}
+{"date":"25-11-2021 19:16:06","type":"DBAction","message":"nullfindCursor","params":{"0":{"query":{},"sort":null,"skip":null,"limit":2}}}
+{"date":"25-11-2021 19:16:06","type":"DBAction","message":"nullfind","params":{"0":{},"1":null,"2":null,"3":2}}
+{"date":"25-11-2021 19:16:14","type":"DBAction","message":"nullfindCursor","params":{"0":{"query":{},"sort":null,"skip":null,"limit":2}}}
+{"date":"25-11-2021 19:16:14","type":"DBAction","message":"nullfind","params":{"0":{},"1":null,"2":null,"3":2}}
+{"date":"25-11-2021 19:16:27","type":"DBAction","message":"nullfindCursor","params":{"0":{"query":{},"sort":null,"skip":null,"limit":2}}}
+{"date":"25-11-2021 19:16:27","type":"DBAction","message":"nullfind","params":{"0":{},"1":null,"2":null,"3":2}}
+{"date":"25-11-2021 19:17:02","type":"DBAction","message":"nullfindCursor","params":{"0":{"query":{},"sort":null,"skip":null,"limit":2}}}
+{"date":"25-11-2021 19:17:02","type":"DBAction","message":"nullfind","params":{"0":{},"1":null,"2":null,"3":2}}
+{"date":"25-11-2021 19:17:52","type":"DBAction","message":"null.findCursor","params":{"0":{"query":{},"sort":null,"skip":null,"limit":2}}}
+{"date":"25-11-2021 19:17:52","type":"DBAction","message":"null.find","params":{"0":{},"1":null,"2":null,"3":2}}
+{"date":"25-11-2021 19:17:54","type":"DBAction","message":"null.findCursor","params":{"0":{"query":{},"sort":null,"skip":null,"limit":2}}}
+{"date":"25-11-2021 19:17:54","type":"DBAction","message":"null.find","params":{"0":{},"1":null,"2":null,"3":2}}
+{"date":"25-11-2021 19:18:03","type":"DBAction","message":"null.findCursor","params":{"0":{"query":{},"sort":null,"skip":null,"limit":2}}}
+{"date":"25-11-2021 19:18:03","type":"DBAction","message":"null.find","params":{"0":{},"1":null,"2":null,"3":2}}
+{"date":"25-11-2021 19:19:26","type":"DBAction","message":"null.findCursor","params":{"0":{"query":{},"sort":null,"skip":null,"limit":2}}}
+{"date":"25-11-2021 19:19:26","type":"DBAction","message":"null.find","params":{"0":{},"1":null,"2":null,"3":2}}
+{"date":"25-11-2021 19:19:34","type":"DBAction","message":"null.findCursor","params":{"0":{"query":{}}}}
+{"date":"25-11-2021 19:19:34","type":"DBAction","message":"null.find","params":{"0":{}}}
+{"date":"25-11-2021 19:21:19","type":"DBAction","message":"null.findCursor","params":{"0":{"query":{}}}}
+{"date":"25-11-2021 19:21:19","type":"DBAction","message":"null.find","params":{"0":{}}}
+{"date":"25-11-2021 19:21:25","type":"DBAction","message":"null.findCursor","params":{"0":{"query":{}}}}
+{"date":"25-11-2021 19:21:25","type":"DBAction","message":"null.find","params":{"0":{}}}
+{"date":"25-11-2021 19:22:26","type":"DBAction","message":"null.find","params":{"0":{}}}
+{"date":"25-11-2021 19:22:43","type":"DBAction","message":"null.findCursor","params":{"0":{"query":{}}}}
+{"date":"25-11-2021 19:22:43","type":"DBAction","message":"null.find","params":{"0":{}}}
+{"date":"25-11-2021 19:23:26","type":"DBAction","message":"null.findCursor","params":{"0":{}}}
+{"date":"25-11-2021 19:23:26","type":"DBAction","message":"null.find","params":{"0":{}}}
+{"date":"25-11-2021 19:23:46","type":"DBAction","message":"null.findCursor","params":{"0":{}}}
+{"date":"25-11-2021 19:23:46","type":"DBAction","message":"null.find","params":{"0":{}}}
+{"date":"25-11-2021 19:33:56","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"4":1}}
+{"date":"25-11-2021 19:33:57","type":"DBError","message":null,"params":{"ok":0,"code":9,"codeName":"FailedToParse","name":"MongoError"}}
+{"date":"25-11-2021 19:33:57","type":"ServerError","message":"handle POST error","params":{"message":"Failed to parse: projection: 1. 'projection' field must be of BSON type object.","stackStart":["MongoError: Failed to parse: projection: 1. 'projection' field must be of BSON type object.","    at Connection.<anonymous> (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\node_modules\\mongodb\\lib\\core\\connection\\pool.js:453:61)","    at Connection.emit (node:events:390:28)"]}}
+{"date":"25-11-2021 19:34:48","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"4":1}}
+{"date":"25-11-2021 19:34:49","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:36:18","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"3":1}}
+{"date":"25-11-2021 19:36:18","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:37:13","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"3":1}}
+{"date":"25-11-2021 19:37:13","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:38:21","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"3":1}}
+{"date":"25-11-2021 19:38:21","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:38:51","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"3":1}}
+{"date":"25-11-2021 19:38:51","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:55:26","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"3":1}}
+{"date":"25-11-2021 19:55:26","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 19:55:26","type":"ServerError","message":"handle POST error","params":{"message":"SHA256 is not defined","stackStart":["ReferenceError: SHA256 is not defined","    at Function.comparePasswordsPlain (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\ORM\\Users.js:34:23)","    at handlePostRequests (C:\\Users\\victo\\Desktop\\WEB\\NFC_paintings\\api\\serverScripts\\requests\\post.js:44:40)"]}}
+{"date":"25-11-2021 20:01:27","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"3":1}}
+{"date":"25-11-2021 20:01:27","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 20:01:57","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"3":1}}
+{"date":"25-11-2021 20:01:57","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 20:05:02","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"3":1}}
+{"date":"25-11-2021 20:05:02","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}
+{"date":"25-11-2021 20:05:43","type":"DBAction","message":"users.findCursor","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]},"3":1}}
+{"date":"25-11-2021 20:05:43","type":"DBAction","message":"users.findOne","params":{"0":{"$or":[{"username":"office@cryptostamped.com"},{"emails":{"$elemMatch":{"address":"office@cryptostamped.com"}}}]}}}

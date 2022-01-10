@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /profile
+Disallow: /shots
+Disallow: /shotsimg
+Disallow: /players?
+Host: https://performstars.com
+Sitemap: /sitemap.xml
+#Clean-param: page&sort /players 
+#Clean-param: sort /players 
